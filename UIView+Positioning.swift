@@ -1,6 +1,5 @@
 //
 //  UIView+Positioning.swift
-//  protein
 //
 //  Created by Koichi Sato on 11/26/16.
 //  Copyright © 2016 Koichi Sato. All rights reserved.
